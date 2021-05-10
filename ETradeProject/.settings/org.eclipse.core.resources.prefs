@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/Business/concreates/UserControlManager.java=UTF-8
+encoding//src/Business/concreates/UserManager.java=UTF-8
+encoding//src/Core/concreates/EmailManager.java=UTF-8
+encoding//src/Google/GoogleAuthManager.java=UTF-8
+encoding//src/dataAccesss/concreates/HibernateUserDao.java=UTF-8
